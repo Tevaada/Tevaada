@@ -4,7 +4,7 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Lim Sokminea</h1>
 <!-- <h3 align="center">Future Want to be Software Engineer</h3> -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Want+to+be+software+engineer;Machine+Learning;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Future+to+be+software+engineer;Machine+Learning;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Tevaada">
